@@ -23,3 +23,5 @@ public class Main {
         System.out.println("Index where A[i] = i: " + result);
     }
 }
+//แสดงผล
+//Index where A[i] = i: 3
