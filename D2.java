@@ -20,3 +20,5 @@ public class Main {
         System.out.println("Missing value: " + missingValue);
     }
 }
+//แสดงผล
+//Missing value: 3
